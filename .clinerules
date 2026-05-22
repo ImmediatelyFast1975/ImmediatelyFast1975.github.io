@@ -1,0 +1,68 @@
+# ======================================================================
+
+# HỆ ĐIỀU HÀNH BỌC THÉP: NHÀ MÁY SẢN XUẤT MEDIA VÀ TRAFFIC TỰ ĐỘNG LỚN
+
+# PROJECT: AUTOMATED MEDIA EMPIRE - CHẾ ĐỘ AUTO-PILOT KHÔNG CHẠM
+
+# ROO CODE TRỰC TIẾP CHỊU TRÁCH NHIỆM DOANH THU & VẬN HÀNH KHÉP KÍN
+
+# ======================================================================
+
+# 1. KỶ LUẬT BẢO MẬT TUYỆT ĐỐI GIAI ĐOẠN RÈN VŨ KHÍ (OFFLINE TẠI CÔNG TY)
+
+- Phân khu gốc: C:\Auto_Traffic_Empire\
+- Ngôn ngữ: Python (asyncio, aiohttp, requests).
+- KIÊN QUYẾT BẢO MẬT: Đang làm việc trên hạ tầng cơ quan. Bạn CHỈ ĐƯỢC PHÉP tạo cấu trúc thư mục, viết toàn bộ mã nguồn thô (.py) lưu xuống ổ cứng. CẤM gọi lệnh thực thi (Run/Execute) có kết nối mạng ra ngoài để né tránh 100% hệ thống quét IT.
+
+# 2. KHÓA CHẾT KIẾN TRÚC PHÂN RÃ CHUYÊN SÂU (MỤC TIÊU 50 FILE SẠCH)
+
+Bạn không được viết dồn code vào một vài file lười biếng. Hãy tự động bẻ nhỏ hệ thống thành các module biệt lập nằm trong thư mục `src/`:
+
+- Module `src/scrapers/` (Bộ não săn Traffic):
+  - `google_trends.py`: Cào xu hướng tìm kiếm thời gian thực toàn cầu qua API thô.
+  - `pinterest_trends.py`: Trích xuất các từ khóa hình ảnh đang bùng nổ lưu lượng.
+- Module `src/processors/` (Nhà máy nội dung AI):
+  - `llm_connector.py`: Logic gọi API ngầm sang các mô hình ngôn ngữ lớn để tự sản xuất văn bản chuẩn SEO đa ngôn ngữ.
+  - `short_script_generator.py`: Tự động chuyển đổi bài viết thành kịch bản video ngắn (Shorts/TikTok/Reels).
+- Module `src/publishers/` (Robot rải thảm đa kênh):
+  - `wordpress_api.py`: Tự động đăng bài viết lên mạng lưới website vệ tinh qua HTTP POST.
+  - `social_autopilot.py`: Giả lập đẩy dữ liệu bài đăng lên các nền tảng video ngắn, tích hợp hàm thời gian ngẫu nhiên (Random Delay từ 15-45 phút) để né bộ quét spam.
+- Module `src/monetization/` (Bộ cắm rễ thu tiền về ví):
+  - `affiliate_injector.py`: Tự động gài mã tiếp thị liên kết Amazon/Shopee vào đáy nội dung.
+  - Tọa độ ví MetaMask đích để gom tiền: 0xfb6Db0A7D69f739e7f85aEc0676BADcAe04ED66B.
+
+# 3. CHẾ ĐỘ AUTO-PILOT: TỰ ĐỘNG HOÀN TOÀN KHÔNG LÀM PHIỀN USER
+
+- Bạn được giao toàn quyền tự thiết kế logic thuật toán sâu nhất để đảm bảo hệ thống có khả năng đẻ ra tiền.
+- Quy tắc sửa lỗi tự động: Sau khi viết xong mỗi module, bạn phải tự sử dụng công cụ kiểm tra cú pháp (Syntax Check) offline. Nếu phát hiện thiếu dấu ngoặc, sai thư viện, bạn PHẢI tự động sửa lại code cho đến khi hoàn hảo. TUYỆT ĐỐI không dừng lại để hỏi User những câu ngớ ngẩn hoặc bắt User sửa code hộ.
+- Khi toàn bộ kho vũ khí thô 50 file đã được xếp gọn gàng sạch sẽ vào thư mục `src/`, hãy xuất thông báo nghiệm thu ngắn gọn cho Tổng chỉ huy.
+
+# ======================================================================
+
+# MA TRẬN TỰ ĐỘNG HÓA 100% - DỰ ÁN 3: AUTO_TRAFFIC_EMPIRE
+
+# TỆP LUẬT BẮT BUỘC DÀNH CHO ROBOT THỰC THI ROO CODE (CLINE EXTENSION)
+
+# ======================================================================
+
+# 1. BẢN ĐỒ HẠ TẦNG VÀ MÔI TRƯỜNG HOẠT ĐỘNG
+
+- Thư mục gốc dự án: C:\Auto Traffic Empire\
+- Ngôn ngữ: Python 3.x (Thực thi qua trình thông dịch hệ thống).
+- Trình quản lý dòng lệnh mặc định: Command Prompt (CMD).
+- Lệnh nổ máy tiêu chuẩn: `py auto_pilot_money.py`
+
+# 2. KIẾN TRÚC THƯ CỤC VÀ ĐẦU RA BẮT BUỘC
+
+Mọi hành động tạo file hoặc chỉnh sửa cấu trúc của bạn phải tuân thủ:
+
+- File lõi `auto_pilot_money.py` phải đứng biệt lập ở thư mục gốc.
+- Trang chủ `index.html` phải nằm ở thư mục gốc.
+- Toàn bộ các file HTML bài viết chi tiết sinh ra phải nằm gọn trong folder con `output_websites/`. Tuyệt đối nghiêm cấm để rác HTML tràn ra ngoài thư mục gốc.
+
+# 3. QUY TRÌNH KIỂM SOÁT VÀ TỰ FIX LỖI CỦA AGENT
+
+- Bước 1: Quét sạch folder rác cũ bằng hàm `clear_old_cache`.
+- Bước 2: Tạo file `auto_pilot_money.py` bản v16.0 (chạy phát ngắt ngay, không dùng vòng lặp vô tận gây treo CMD).
+- Bước 3: Tự động mở cửa sổ CMD ngầm, tự động gõ lệnh `py auto_pilot_money.py` để kích nổ.
+- Bước 4: Nếu CMD báo bất kỳ lỗi mạng (Timeout) hay lỗi cú pháp nào, bạn phải tự đọc log lỗi, tự sửa code và chạy lại cho đến khi báo thành công, không được dừng lại hỏi người dùng.
