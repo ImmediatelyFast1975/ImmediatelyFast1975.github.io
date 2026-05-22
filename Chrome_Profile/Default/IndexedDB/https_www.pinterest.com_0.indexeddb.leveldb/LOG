@@ -1,0 +1,6 @@
+2026/05/22-14:00:03.202 7d2c Reusing MANIFEST C:\Auto_Traffic_Empire\Chrome_Profile\Default\IndexedDB\https_www.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/22-14:00:03.203 7d2c Recovering log #3
+2026/05/22-14:00:03.222 7d2c Reusing old log C:\Auto_Traffic_Empire\Chrome_Profile\Default\IndexedDB\https_www.pinterest.com_0.indexeddb.leveldb/000003.log 
+2026/05/22-14:02:27.453 3520 Level-0 table #5: started
+2026/05/22-14:02:27.491 3520 Level-0 table #5: 1443231 bytes OK
+2026/05/22-14:02:27.492 3520 Delete type=0 #3
